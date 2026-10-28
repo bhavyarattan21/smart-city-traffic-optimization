@@ -1,0 +1,26 @@
+scenario_id,scenario_name,congested_edge,multiplier,origin,destination,original_route,original_time_mins,congested_route,congested_time_mins,delay_mins,pct_increase,rerouted
+SCEN_01,Morning Rush Hour Tech Park,B-C,5.0,A,D,A -> C -> B -> D,8.0,A -> B -> D,9.0,1.0,12.5,True
+SCEN_01,Morning Rush Hour Tech Park,B-C,5.0,A,G,A -> C -> F -> J -> G,13.0,A -> C -> F -> J -> G,13.0,0.0,0.0,False
+SCEN_01,Morning Rush Hour Tech Park,B-C,5.0,C,G,C -> F -> J -> G,11.0,C -> F -> J -> G,11.0,0.0,0.0,False
+SCEN_01,Morning Rush Hour Tech Park,B-C,5.0,I,H,I -> C -> F -> H,13.0,I -> C -> F -> H,13.0,0.0,0.0,False
+SCEN_01,Morning Rush Hour Tech Park,B-C,5.0,B,J,B -> C -> F -> J,9.0,B -> E -> J,10.0,1.0,11.11,True
+SCEN_02,Freeway Bridge Maintenance,D-E,4.0,A,D,A -> C -> B -> D,8.0,A -> C -> B -> D,8.0,0.0,0.0,False
+SCEN_02,Freeway Bridge Maintenance,D-E,4.0,A,G,A -> C -> F -> J -> G,13.0,A -> C -> F -> J -> G,13.0,0.0,0.0,False
+SCEN_02,Freeway Bridge Maintenance,D-E,4.0,C,G,C -> F -> J -> G,11.0,C -> F -> J -> G,11.0,0.0,0.0,False
+SCEN_02,Freeway Bridge Maintenance,D-E,4.0,I,H,I -> C -> F -> H,13.0,I -> C -> F -> H,13.0,0.0,0.0,False
+SCEN_02,Freeway Bridge Maintenance,D-E,4.0,B,J,B -> C -> F -> J,9.0,B -> C -> F -> J,9.0,0.0,0.0,False
+SCEN_03,Airport Expressway Traffic,D-G,3.0,A,D,A -> C -> B -> D,8.0,A -> C -> B -> D,8.0,0.0,0.0,False
+SCEN_03,Airport Expressway Traffic,D-G,3.0,A,G,A -> C -> F -> J -> G,13.0,A -> C -> F -> J -> G,13.0,0.0,0.0,False
+SCEN_03,Airport Expressway Traffic,D-G,3.0,C,G,C -> F -> J -> G,11.0,C -> F -> J -> G,11.0,0.0,0.0,False
+SCEN_03,Airport Expressway Traffic,D-G,3.0,I,H,I -> C -> F -> H,13.0,I -> C -> F -> H,13.0,0.0,0.0,False
+SCEN_03,Airport Expressway Traffic,D-G,3.0,B,J,B -> C -> F -> J,9.0,B -> C -> F -> J,9.0,0.0,0.0,False
+SCEN_04,Downtown Water Pipe Burst,A-B,4.0,A,D,A -> C -> B -> D,8.0,A -> C -> B -> D,8.0,0.0,0.0,False
+SCEN_04,Downtown Water Pipe Burst,A-B,4.0,A,G,A -> C -> F -> J -> G,13.0,A -> C -> F -> J -> G,13.0,0.0,0.0,False
+SCEN_04,Downtown Water Pipe Burst,A-B,4.0,C,G,C -> F -> J -> G,11.0,C -> F -> J -> G,11.0,0.0,0.0,False
+SCEN_04,Downtown Water Pipe Burst,A-B,4.0,I,H,I -> C -> F -> H,13.0,I -> C -> F -> H,13.0,0.0,0.0,False
+SCEN_04,Downtown Water Pipe Burst,A-B,4.0,B,J,B -> C -> F -> J,9.0,B -> C -> F -> J,9.0,0.0,0.0,False
+SCEN_05,Heavy Weather Valley Route,F-H,3.0,A,D,A -> C -> B -> D,8.0,A -> C -> B -> D,8.0,0.0,0.0,False
+SCEN_05,Heavy Weather Valley Route,F-H,3.0,A,G,A -> C -> F -> J -> G,13.0,A -> C -> F -> J -> G,13.0,0.0,0.0,False
+SCEN_05,Heavy Weather Valley Route,F-H,3.0,C,G,C -> F -> J -> G,11.0,C -> F -> J -> G,11.0,0.0,0.0,False
+SCEN_05,Heavy Weather Valley Route,F-H,3.0,I,H,I -> C -> F -> H,13.0,I -> C -> F -> J -> H,14.0,1.0,7.69,True
+SCEN_05,Heavy Weather Valley Route,F-H,3.0,B,J,B -> C -> F -> J,9.0,B -> C -> F -> J,9.0,0.0,0.0,False

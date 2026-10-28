@@ -1,0 +1,6 @@
+scenario_id,scenario_name,source,target,multiplier,cause,severity
+SCEN_01,Morning Rush Hour Tech Park,B,C,5,Peak Commuter Inflow,High
+SCEN_02,Freeway Bridge Maintenance,D,E,4,Lane Closure for Repairs,Critical
+SCEN_03,Airport Expressway Traffic,D,G,3,Flight Peak Arrivals,Medium
+SCEN_04,Downtown Water Pipe Burst,A,B,4,Emergency Roadwork,High
+SCEN_05,Heavy Weather Valley Route,F,H,3,Flash Flooding and Low Visibility,Medium

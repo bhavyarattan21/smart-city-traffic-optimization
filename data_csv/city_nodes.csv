@@ -1,0 +1,11 @@
+node_id,name,zone,x,y
+A,Downtown Central,Commercial,20,50
+B,North Station,Transport Hub,40,80
+C,Tech Park,Industrial,40,20
+D,University Campus,Educational,70,80
+E,Civic Center,Government,65,50
+F,South Market,Commercial,70,20
+G,Airport Terminal,Transport Hub,95,70
+H,Green Valley,Residential,95,30
+I,Harbor Point,Industrial,15,20
+J,East Suburbs,Residential,90,50

@@ -1,0 +1,20 @@
+source,target,weight,road_type,speed_limit,lanes
+A,B,4,Arterial Avenue,50,4
+A,C,2,Tech Parkway,40,2
+A,I,3,Harbor Expressway,60,4
+B,C,1,Ring Connector,45,2
+B,D,5,University Boulevard,50,4
+B,E,6,Grand Avenue,40,3
+C,D,8,Cross District Link,40,2
+C,F,3,Market Bypass,45,2
+C,I,4,Industrial Access,35,2
+D,E,2,Central Spine,50,4
+D,G,6,Airport Expressway,80,6
+E,F,3,Civic Corridor,40,2
+E,G,7,Eastbound Freeway,70,4
+E,J,4,Suburban Link,50,3
+F,H,6,Valley Road,45,2
+F,J,5,South Ring,50,2
+G,H,4,Metro Ring Highway,80,4
+G,J,3,Terminal Expressway,70,4
+H,J,2,Valley Avenue,40,2
