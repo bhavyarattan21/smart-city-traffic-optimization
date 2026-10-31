@@ -7,7 +7,7 @@
 [![Tests: Passing](https://img.shields.io/badge/Tests-100%25%20Passing-brightgreen.svg)]()
 
 > **Course:** Design and Analysis of Algorithms (DAA)  
-> **Lab 5:** Capstone Assignment — Option A  
+> **Assignment:** Capstone Assignment — Option A  
 > **Author:** Bhavya Rattan (Roll No: 2401201004)  
 > **Repository:** [bhavyarattan21/smart-city-traffic-optimization](https://github.com/bhavyarattan21/smart-city-traffic-optimization)
 
@@ -183,6 +183,5 @@ python visualization.py
 
 - **Student:** Bhavya Rattan
 - **Roll Number:** 2401201004
-- **Program:** B.Tech Computer Science & Engineering
-- **Institution:** Department of Computer Science & Engineering
-- **Evaluation:** DAA Lab 5 Capstone Assignment (Submitted via GitHub & ZOSIMA)
+- **Program:** BCA(AI& DS)
+
